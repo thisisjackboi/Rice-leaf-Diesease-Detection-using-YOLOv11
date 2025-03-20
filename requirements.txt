@@ -1,7 +1,14 @@
 Flask
+Flask-Cors
 ultralytics
 torch
 torchvision
 numpy
 opencv-python
 gunicorn==21.2.0
+Pillow
+python-dotenv
+requests
+tqdm
+scipy
+matplotlib
